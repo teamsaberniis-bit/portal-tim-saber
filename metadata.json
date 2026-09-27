@@ -1,0 +1,6 @@
+{
+  "name": "Portal Tim SABER - Android APK",
+  "description": "Aplikasi Android Portal Tim SABER Nurul Imam Islamic School untuk jadwal kerja, lembur, laporan harian, pengajuan alat, dan pengaduan kendala.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
